@@ -7,7 +7,7 @@ function interpolateColor(value) {
   if (t <= 0.5) {
     const p = t / 0.5;
     return lerpColor("#ff1e1e", "#ffffff", p);
-  } else {ff1e1e
+  } else {
     const p = (t - 0.5) / 0.5;
     return lerpColor("#ffffff", "#4422aa", p);
   }
