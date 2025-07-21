@@ -152,7 +152,7 @@ h1 {
   height: 14px;
   border-radius: 8px;
   margin-top: 2rem;
-  background: linear-gradient(90deg, #ff3b30, #555555, #0a84ff);
+  background: linear-gradient(90deg, #0a84ff, #555555, #ff3b30);
   box-shadow: none;
 }
 
